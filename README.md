@@ -86,9 +86,7 @@ npm run dev
 
 ---
 
-### **6. screenshots**
-
-## **Screenshots**
+### **6. ScreenShots**
 
 ### **User App**
 #### Home
