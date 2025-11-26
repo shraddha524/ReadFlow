@@ -88,5 +88,31 @@ npm run dev
 
 ### **6. ScreenShots**
 
+## 📸 Screenshots
+
+### 🏠 Home & Dashboard
+![Home](Screenshots/home.png)
+![Admin Dashboard](Screenshots/home_admin_dashboard.png)
+![Empty Admin Dashboard](Screenshots/empty_state_Admin_dashboard.png)
+
+### 🔐 Authentication
+![Sign In](Screenshots/signin.png)
+![Sign Up](Screenshots/signup.png)
+![Account Request](Screenshots/account_request.png)
+
+### 📚 Books & Details
+![All Books](Screenshots/all_books.png)
+![Book Details](Screenshots/book_details.png)
+![Book Details 2](Screenshots/book_details2.png)
+![Edit Book Details](Screenshots/edit_book_detals.png)
+
+### 🔍 Search
+![Search](Screenshots/search.png)
+![Search Empty](Screenshots/search_empty_state.png)
+
+### 👤 User
+![All Users](Screenshots/all_users.png)
+![Profile](Screenshots/profile.png)
+
 
 
