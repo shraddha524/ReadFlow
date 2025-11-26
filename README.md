@@ -88,52 +88,5 @@ npm run dev
 
 ### **6. ScreenShots**
 
-### **User App**
-#### Home
-## Screenshots
 
-### User App
 
-#### Home
-![Home](/screenshots/Home.png)
-
-#### Search
-![Search](/screenshots/search.png)
-
-#### Search (Empty)
-![Search Empty](/screenshots/searchemptystate.png)
-
-#### Book Details
-![Book Details](/screenshots/book_details.png)
-![Book Details 2](/screenshots/bookdetails.png)
-
-#### Profile
-![Profile](/screenshots/profile.png)
-
-#### Sign In
-![Sign In](/screenshots/signin.png)
-
-#### Sign Up
-![Sign Up](/screenshots/signup.png)
-
----
-
-### Admin Dashboard
-
-#### Dashboard Home
-![Admin Home](/screenshots/home_admin_dashboard.png)
-
-#### Empty State
-![Empty Dashboard](/screenshots/empty_state_admin_dashboard.png)
-
-#### All Books
-![All Books](/screenshots/allbooks.png)
-
-#### All Users
-![All Users](/screenshots/allusers.png)
-
-#### Create Book
-![Create Book](/screenshots/create_book_details.png)
-
-#### Edit Book
-![Edit Book](/screenshots/edit_book_details.png)
